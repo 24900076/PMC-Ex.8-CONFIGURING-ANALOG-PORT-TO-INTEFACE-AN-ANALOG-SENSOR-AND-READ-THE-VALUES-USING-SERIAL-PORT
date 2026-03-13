@@ -236,7 +236,7 @@ int main(void)
 *(Remaining program functions unchanged)*
 
 ---
-
+ 
 ## Output
 
 <img width="1623" height="942" alt="image" src="https://github.com/user-attachments/assets/584cfc3f-b763-48a2-9c37-ebac15dd58d5" />
